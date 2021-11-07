@@ -1,7 +1,7 @@
-def CONTAINER_NAME="docker-pipeline"
-def CONTAINER_TAG="latest"
-def DOCKER_HUB_USER="anujsharma1990"
-def HTTP_PORT="8090"
+def containerName="docker-pipeline"
+def tag="latest"
+def dockerHubUser="anujsharma1990"
+def httpPort="8090"
 
 node {
 
